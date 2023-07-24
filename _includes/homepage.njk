@@ -1,0 +1,199 @@
+---
+title: Azer Koçulu
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>{{ title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata:400|Inter:400,600,700" rel="stylesheet">
+  <style type="text/css">
+* {
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+background: #fff;
+font-size: 17px;
+font-weight: 400;
+font-family: Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+line-height: 1.6;
+  color: #181818;
+}
+
+
+a {
+  color: #181818;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  transition: border-color 0.2s;
+}
+
+a:hover {
+  border-bottom: 1px solid #888;
+}
+
+p {
+  line-height: 1.6;
+}
+
+pre {
+  font: 1.1rem Assistant,-apple-system,BlinkMacSystemFont,Arial,sans-serif;
+}
+
+code {
+  font: 1.1rem Assistant,-apple-system,BlinkMacSystemFont,Arial,sans-serif;
+}
+
+iframe {
+  max-width: 100% !important;
+}
+
+strong, strong a {
+  font-weight: 600 !important;
+}
+
+::selection {
+  color: rgb(45, 110, 220);
+  background: #f2f2f2;
+}
+
+.column {
+  max-width: 640px;
+  padding: 0 6.4% 24px;
+  margin: 0 auto;
+}
+
+.home {
+  max-width: 740px;
+}
+
+.bio {
+  padding-top: 48px;
+  margin: 48px auto;
+  display: grid;
+  grid-template-columns: 100px auto;
+  gap: 20px;
+  color: #333;
+}
+
+.bio div {
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
+
+.bio img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.bio .links {
+  display: flex;
+  gap: 25px;
+  font-size: 1rem;
+  margin-top: 24px;
+a}
+
+.bio .links a {
+color: #666;
+padding-bottom: 2px;
+transition: color, border-color .2s;
+border-bottom: 1px solid #ddd;
+}
+
+.bio .links a:hover {
+  color: #333;
+  border-bottom: 1px solid #ccc;
+}
+
+.posts ul {
+  list-style: none;
+}
+
+ul li, ol li {
+line-height: 2;
+margin: 0;
+padding: 0;
+}
+
+.posts ul {
+  padding: 0;
+  margin: 0 0 0 120px;
+}
+
+.posts ul li {
+  height: 40px;
+}
+
+.posts a {
+  border-bottom: 1px solid #ddd;
+  transition: border-color .2s;
+}
+
+a:hover {
+  border-bottom-color: #ccc;
+}
+
+.posts .year {
+  font-weight: 700;
+  color: #444;
+  font-size: 14px;
+  margin-top: 48px;
+}
+
+.links {
+display: flex;
+}
+
+@media only screen and (max-width: 800px) {
+  .bio {
+    grid-template-columns: 1fr;
+  }
+
+  footer {
+    margin: 0 auto;
+}
+
+.posts ul {
+  margin-left: 0;
+}
+}
+
+  </style>
+</head>
+<body>
+  <div class="home column">
+    <footer class="bio">
+      <img src="https://cldup.com/BTM5evGteT.jpg" />
+      <div>
+	Azer Koçulu, software engineer and founder of <a href="https://sway.so">Sway</a>.
+	Previously, Superhuman, Jelly and Contentful.
+
+	<p class="links">
+	  <a href="mailto:azerkoculu@gmail.com">Say hello</a>
+	  <a href="https://github.com/azer">Github</a>
+	  <a href="https://twitter.com/azerkoculu">Twitter</a>
+	  <a href="https://linkedin.com/in/azerkoculu">Linkedin</a>
+	</p>
+      </div>
+    </footer>
+    <div class="posts">{{ content | safe }}</div>
+  </div>
+</body>
+</html>
