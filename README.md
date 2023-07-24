@@ -1,3 +1,3 @@
 # blog
 
-source code of [azerkoculu.com](https://azerkoculu.com)
+source code of [azerkoculu.com](http://azerkoculu.com)
