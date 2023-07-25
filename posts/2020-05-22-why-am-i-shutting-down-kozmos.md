@@ -17,8 +17,8 @@ Back in 2017, I built Kozmos as a result of an experimental web browser project,
 
 There is two posts about this goal in this blog, feel free to check them out if you're interested;
 
-* [Speed Dial and Link Collections in New Tab](https://kodfabrik.com/journal/speed-dial-and-link-collections-in-new-tab)
-* [Rethinking Web Browsers and Bookmarking](https://kodfabrik.com/journal/rethinking-web-browsers-and-bookmarking)
+* [Speed Dial and Link Collections in New Tab](https://azerkoculu.com/posts/speed-dial-and-link-collections-in-new-tab.html)
+* [Rethinking Web Browsers and Bookmarking](https://azerkoculu.com/posts/rethinking-web-browsers-and-bookmarking.html)
 
 **TLDR;** Kozmos is a service that provides you a new tab extension that works completely offline, stores all your information in your web browser, and finally syncs them up with Kozmos' servers, so you can access them anywhere.
 
