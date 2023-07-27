@@ -28,11 +28,8 @@ Türkçe’nin bize bıraktığı bu ince izi takip ettiğimizde, hayatla ilgili
 
 İmkansız görünen bir hedefi elde etmek için gerekli uzun ve sancılı süreç, hasta olup iyileşmek için kullandığımız, iyileşme gücüyle mümkündür. Birinde doğanın kanunları bedenimizin yetersizliğini bize gönderdiği hastalıkla beyan ederken, diğerinde, kurduğumuz hayal veya amacı gerçekleştirmek için önümüzde bulunan engeller, bize iyileşmek için ne yapılması gerektiğini bildirmektedir.
 
-
-
 Bir düşmanın saldırısından korunmak, bir hastalıktan kurtulmak veya büyük bir amacı gerçekleştirmek adına iyileşmemiz için gerekli koşullar, bastırılmadığı veya saklanmadığı takdirde kendiliğinden ortaya çıkar, uzun, köklü değişimlere davet ederler. Yaşamımızın yönünü, doğrultusunu, bize can veren, özümüzün bir parçası olan, sanki bize can veren, yaradılışımızın parçası olan bir rehber belirlemeye başlar.
 
 Kurduğumuz idealin veya vücudumuzu saran hastalığın gerçekliği ile bağlantımız sağlamsa, iyileşmekten ve güçlenmekten geçen bir yolda yürümeye inanırız. Gerçeklik ile bağlantımız zayıfsa, gerçeklikten saklanıyorsak, hastalığını reddeden bir hastaysak veya zaten çok iyi olduğunu sanan bir sporcuysak, iyileşme yolunda yürümek için gerekli inanç ve tevekkülün yerine kibir ve sahtelik koyarız.
 
-
-Velhasıl… Büyük bir hayal, mucize, amaç için ne gerektiğini merak ettiğimizde, ihtiyacımız olan kuvvetin içimizdeki iyileşme kuvveti olduğunu, takip etmemiz gereken yolun da, uzun ama her günü iyileşmekten geçen bir yol olduğunu, kendimize hatırlatmalıyız.
+Sözün hasılı, bir hastalık ile idealin ortak yönü, her ikisinin de -kulak verdiğimizde- bizimle etkileşim kurmaları, noksanlıklarımızı gidererek yürümemiz gereken yolu bize göstermeleridir. Tıpkı yeni doğan bebeğin kaşık tutmaya, yürümeye, koşmaya giden "büyüme" ideali için, veya bir sporcunun kategorisindeki en iyi olma ideali için kullandığı iyileşme gücünü, hepimiz ortaya çıkarıp ideallerimizi iyileşerek gerçekleştirebiliriz.
