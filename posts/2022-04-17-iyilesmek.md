@@ -14,7 +14,7 @@ Doğanın koşulları bedenimizin hayatta kalmak için yeterli olmadığını bi
 
 İyileşmekte olan insan kendi gerçekliğinden kaçamaz; sürekli iyileşme sürecini gözlemler, bilgi toplar ve kendini iyileşme yörüngesinde aldığı mesafeye göre düzenleyerek, her gününü bir öncekinden daha iyileşmiş olma amacıyla yaşayarak ilerler.
 
-Doğa ona yeni gerekliliklerini acı, ağrı gibi yollarla bildirmeye devam eder. İyileşme sürecini tamamen doktora devretmeyen bir insan için, acılarını hissetmek ve ona göre sürecin direksiyon koltuğunda oturmak önemlidir. İyi iyileşme süreçleri insanların kendi içinde başlar.
+Doğa ona yeni gerekliliklerini acı, ağrı gibi yollarla bildirmeye devam eder.
 
 İyileşen kişi vücuduna sadece ihtiyacı olan maddeleri verir; zevk için değil iyileşmek için gıda tüketir. Gerekirse tadı berbat olan ama iyileşmesi için gerekli olan gıdaları yer. Bizi aşağı çeken huylara, alışkanlıklara karşı en acımasız olduğumuz zaman, iyileştiğimiz zamandır.
 
