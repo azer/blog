@@ -8,7 +8,7 @@ createdAt: "2022-04-17T00:00:00.000Z"
 
 İyileşmek nedir? Nasıl iyileşiriz?
 
-Doğanın koşulları bedenimizin içinde bulunduğu durumun hayatta kalmak için yeterli bulmadığını bize kendi diliyle bildirdiğinde, yani hastalandığımızda, içine girdiğimiz bütünlüklü mücadeleye “iyileşme” deriz.
+Doğanın koşulları bedenimizin hayatta kalmak için yeterli olmadığını bize kendi diliyle bildirdiğinde, yani hastalandığımızda, içine girdiğimiz mücadeleye “iyileşme” deriz.
 
 İyileşmekte olan insan, her gece yatağa girerken ve sabah uyanırken, sadece iyileşmeyi düşünür. Kaybettiği sağlığını geri kazanmak için verdiği mücadele dışında, aklını sadece en zaruri meselelerle meşgul eder. Önemsiz şeylere karşı en acımasız olduğumuz zaman, iyileştiğimiz zamandır.
 
