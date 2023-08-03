@@ -136,9 +136,19 @@ color: #030303;
 border-bottom: 0;
 }
 
+.blog .bio .img {
+    width: 100px;
+    height: 100px;
+    aspect-ratio: 1;
+    border-radius: 100%;
+    overflow: hidden;
+    background: red;
+}
+
 .blog .bio img {
-width: 100px;
-  border-radius: 100%;
+    width: 120px;
+    margin: -10px 0 0 -10px;
+    max-width: none;
 }
 
 .blog img, .blog video {
@@ -397,7 +407,7 @@ Azer Koçulu
     {% endif %}
     <div class="blog-content">{{ content | safe }}</div>
     <footer class="bio">
-      <img src="https://cldup.com/BTM5evGteT.jpg" />
+      <div class="img"><img src="https://cldup.com/JuBBlQRbI1.jpg" /></div>
       <p>
 	Azer Koçulu, software engineer, founder of <a href="https://sway.so">Sway</a>.<br />
 	Follow me on <a href="https://twitter.com/azerkoculu">Twitter</a>.
