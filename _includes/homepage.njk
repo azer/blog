@@ -22,6 +22,7 @@ title: Azer Koçulu
   text-transform: none;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
+  text-renderoing: geometricPrecision;
 }
 
 html, body {
@@ -81,26 +82,48 @@ strong, strong a {
 }
 
 .home {
-  max-width: 740px;
+  max-width: 640px;
 }
 
 .bio {
-  padding-top: 48px;
-  margin: 48px auto;
-  display: grid;
-  grid-template-columns: 100px auto;
+  padding-top: 36px;
+  margin: 48px auto 64px auto;
   gap: 20px;
   color: #030303;
 }
 
+.bio h1 {
+  margin: 00px 0 15px 0;
+  font-size: 44px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  color: rgb(10, 12, 16);
+}
+
 .bio div {
-  line-height: 1.6;
-  font-size: 1.25rem;
+  line-height: 28px;
+  font-size: 20px;
+  color: rgb(86, 86, 86);
 }
 
 .bio img {
-  width: 100px;
+  width: 164px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin: -10px 0 0 -14px;
+}
+
+.bio .img {
+  position: relative;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  overflow: hidden;
   border-radius: 100%;
+  width: 140px;
+  height: 140px;
+  margin-bottom: 18px;
+  object-fit: cover;
 }
 
 .bio .links {
@@ -108,7 +131,7 @@ strong, strong a {
   gap: 25px;
   font-size: 1rem;
   margin-top: 24px;
-a}
+}
 
 .bio .links a {
 color: #666;
@@ -134,7 +157,6 @@ padding: 0;
 
 .posts ul {
   padding: 0;
-  margin: 0 0 0 120px;
 }
 
 .posts ul li {
@@ -180,11 +202,11 @@ display: flex;
 <body>
   <div class="home column">
     <footer class="bio">
-      <img src="https://cldup.com/BTM5evGteT.jpg" />
+      <div class="img"><img src="https://cldup.com/JuBBlQRbI1.jpg" /></div>
+      <h1>Azer Koçulu</h1>
       <div>
-	Azer Koçulu, software engineer and founder of <a href="https://sway.so">Sway</a>.
+	Software engineer and founder of <a href="https://sway.so">Sway</a>.
 	Previously, Superhuman, Jelly and Contentful.
-
 	<p class="links">
 	  <a href="mailto:azerkoculu@gmail.com">Say hello</a>
 	  <a href="https://github.com/azer">Github</a>
