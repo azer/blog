@@ -1,6 +1,6 @@
 ---
 layout: blog-post.njk
-title: "Özgürlük ve Zaman"
+title: "Zaman ve Özgürlük"
 desc: ""
 createdAt: "2022-01-10T00:00:00.000Z"
 ---
