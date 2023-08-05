@@ -12,7 +12,9 @@ Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmu�
 
 Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha yaygın olanıysa, insanların ömürlerinin tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede, başkalarının belirlediği çizgilerde gitgeller ile geçirmeleri.
 
-Bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları -ne kadar şikayet ederlerse etsinler- talep ederler. Patronlar, moda akımları, krallar ve bürokratlar, insanları özgür bir yaşamın ağırlığından, kendilerini tanıdıklarında yüzleşmek zorunda kalacakları gerçeklikten ve her an kaosa sürüklenme anksiyetesinden kurtarırlar.
+Kölelik, özgürlükten daha yaygındır, çünkü daha rahattır. İnsanın kendi cehaleti ve kötülük yapma potansiyeliyle yüzleşmesi, sonsuz seviyede karmaşık "gelecek", yaşadığın coğrafyadaki kültürün baskısı ve her an bir deprem, sel gibi felaketle seni kozmosun başlangıcına göndermeye hazır olan doğa...
+
+Tüm bunlarla özgür ve kendi kendine yeten bir insan başa çıkmaktansa, bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları -ne kadar şikayet ederlerse etsinler- talep ederler. Patronlar, moda akımları, krallar ve bürokratlar, insanları özgür bir yaşamın ağırlığından, kendilerini tanıdıklarında yüzleşmek zorunda kalacakları gerçeklikten ve her an kaosa sürüklenme anksiyetesinden kurtarırlar.
 
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
