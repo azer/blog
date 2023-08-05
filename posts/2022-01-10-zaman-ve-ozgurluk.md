@@ -20,11 +20,11 @@ Tüm bunlarla özgür ve kendi kendine yeten bir insan olarak başa çıkmaktans
 
 Her derinlik serüveninin ilk adımında olduğu gibi, insanın kendi kendini tanımasının ilk adımı, sessizliğe sığınmaktır. İnsanlığın sürekli değişim halinde olan yüzeysel koşullarını bir kenara bırakıp, hiçbir zaman değişmeyen, geometrik koşullarını ele almak gereklidir.
 
-Bu geometrik koşullardan en önemlisi, yeryüzünde ilişki halinde bulunan tüm insanların hiyerarşiler kurucuncaya dek çatışma, hiyerarşi kurulunca da nispeten barış halinde yaşadıkları gerçekliği. Barışın sağlanabilmesi için, insanoğlu binyıllardır gözle görülmeyen ama bilinen ve kabul edilen iki büyük hiyerarşiyi inşa eder; güç hiyerarşisi ve bilgi hiyerarşisi.
+Ve bu geometrik koşulların gövdesi, bilgi ve güç hiyerarşileridir. Sadece güç hiyerarşisi inşa eden toplumlara örnek Cengiz Kağan'ın ordusunu, sadece bilgi hiyerarşisi inşa eden toplumlara da, Cengiz Kağan'ın ordusu tarafından yerlebir edilip bir daha eski haline gelemeyecek olan Bağdat'ı örnek verebiliriz. İdeal olan her iki hiyerarşinin de en dürüst ve yozlaşmamış halleriyle mevcut olmasıdır toplumda; böylece toplum refah seviyesini, bireysel sorumluluklarını bir tirana devretmeden yükseltebilir.
 
-Diğer insanların gerçekliklerini inceleyen ve anlayan insanlar güç hiyerarşisinde yükselirler. Kendilerinin ve doğanın gerçekliklerini inceleyen ve anlayanlar da, bilgi hiyerarşinde yükselirler. Bir insanın her iki hiyerarşide de yükselmesi <em>(bkz: philosopher king)</em>, güneş tutulması kadar nadirdir. Gücü elde edenler zamanla tiranlaşmaya, tiranlaşanların etrafındaki insanlar ise kendi doğalarını tanımadan yaşamaya meylederler. İnsanlar, daraltılmış, budanmış bir yaşamı, rahatlığın, öngörülebilirliğin verdiği sahte huzur için etmeye meyillidirler. Böylece güç hiyerarşisi çürümeye başladığında bilgi hiyerarşisi de kurgunun, yalanın hiyerarşisine döner. Çürüme hızlanır.
+Gelgelelim, bir insanın her iki hiyerarşide de yükselmesi <em>(bkz: philosopher king)</em>, güneş tutulması kadar nadirdir. Gücü elde edenler zamanla tiranlaşmaya, tiranlaşanların etrafındaki insanlar ise kendi doğalarını tanımadan yaşamaya meylederler. Bilgi hiyerarşisi giderek gerçekliğin değil, kurgunun ve yalanın hiyerarşisine döner. Özgürlüğün yükünü taşınmaz bulan insanlar, daha rahat ve öngörülebilir bir yaşamı, daraltılmış, budanmış bir insan kılıfına girme pahasına daha cazip bulurlar.
 
-Bu döngünün ardındaki kalıcı güç, zaman.
+Marcus Aurelius gibi filozof krallardan Nero gibi hedonist despotlara uzanan döngünün ardındaki kalıcı güç, zaman.
 
 Sığındığımız sessizlik ve yalnızlık, zaman ile buluşmamızı, onu incelememizi sağlar. Zaman nefese bürünür, ciğerlerimizde gidip gelir. Gözlerimizi kapatırız. Zaman bize, dış dünyanın gürültü ve karmaşasından, fiziki bedenimizin ihtiyaçları, istekleri ve acılarından kendimizi ayırmamızı, esasında kim olduğumuzu görmemiz için imkan verir.
 
