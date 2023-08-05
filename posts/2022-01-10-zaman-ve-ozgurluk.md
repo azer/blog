@@ -14,7 +14,7 @@ Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir
 
 Kölelik, özgürlükten daha yaygındır, çünkü daha rahattır. İnsanın kendi cehaleti ve kötülük yapma potansiyeliyle yüzleşmesi, sonsuz seviyede karmaşık geleceğin belirsizliği, yaşadığın coğrafyadaki kültürün baskısı ve her an bir deprem, sel gibi felaketle seni kozmosun başlangıcına göndermeye hazır olan doğa...
 
-Tüm bunlarla özgür ve kendi kendine yeten bir insan olarak başa çıkmaktansa, bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları isterler, yokluklarında özlemle anarlar. Özgürlüğün bir hayatın sorumluluğunu delege edip, ağrı kesici, alkol ve uyuşturucularla uyuyarak geçen bir hayat tatlı ve cazibelidir. Patronlar, moda akımları, krallar, bürokratlar ve ünlüler, insanları özgür bir yaşamın ağırlığından, kendilerini tanıdıklarında yüzleşmek zorunda kalacakları gerçeklikten ve her an kaosa sürüklenme anksiyetesinden kurtarırlar.
+Tüm bunlarla özgür ve kendi kendine yeten bir insan olarak başa çıkmaktansa, bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları isterler, yokluklarında özlemle anarlar. Patronlar, moda akımları, krallar, bürokratlar ve ünlüler, insanları özgür bir yaşamın ağırlığından, her an kaosa sürüklenme anksiyetesinden kurtarırlar.
 
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
