@@ -87,13 +87,13 @@ strong, strong a {
 
 .bio {
   padding-top: 36px;
-  margin: 48px auto 64px auto;
+  margin: 48px auto 72px auto;
   gap: 20px;
   color: #030303;
 }
 
 .bio h1 {
-  margin: 0px 0 8px 0;
+  margin: 0px 0 16px 0;
   font-size: 44px;
   font-weight: 700;
   letter-spacing: -2px;
@@ -119,7 +119,7 @@ strong, strong a {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   overflow: hidden;
-  border-radius: 100%;
+  border-radius: 32px;
   width: 140px;
   height: 140px;
   margin-bottom: 24px;
@@ -129,20 +129,25 @@ strong, strong a {
 .bio .links {
   display: flex;
   gap: 25px;
-  font-size: 1rem;
+  font-size: 16px;
   margin-top: 24px;
+  margin-left: -15px;
 }
 
 .bio .links a {
 color: #666;
-padding-bottom: 2px;
-transition: color, border-color .2s;
-border-bottom: 1px solid #ddd;
+padding: 9px 15px;
+transition: color, background, border-color .2s;
+transition: background-color 0.2s;
+background: #fff;
+text-decoration: none;
+border: 0;
+border-radius: 8px;
 }
 
 .bio .links a:hover {
   color: #333;
-  border-bottom: 1px solid #ccc;
+  background: rgba(230, 233, 237, 0.5);
 }
 
 .posts ul {
@@ -153,6 +158,13 @@ ul li, ol li {
 line-height: 2;
 margin: 0;
 padding: 0;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(150, 150, 150);
+  margin: 10px 0 5px 0;
 }
 
 .posts ul {
@@ -173,8 +185,8 @@ a:hover {
 }
 
 .posts .year {
-  font-weight: 700;
-  color: #444;
+  font-weight: 600;
+  color: #999;
   font-size: 14px;
   margin-top: 48px;
 }
@@ -207,6 +219,7 @@ display: flex;
       <div>
 	Software engineer and founder of <a href="https://sway.so">Sway</a>.
 	Previously, Superhuman, Jelly and Contentful.
+
 	<p class="links">
 	  <a href="mailto:azerkoculu@gmail.com">Say hello</a>
 	  <a href="https://github.com/azer">Github</a>
@@ -215,7 +228,9 @@ display: flex;
 	</p>
       </div>
     </footer>
-    <div class="posts">{{ content | safe }}</div>
+    <div class="posts">
+    {{ content | safe }}
+    </div>
   </div>
 </body>
 </html>

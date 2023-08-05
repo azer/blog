@@ -138,7 +138,6 @@ border-bottom: 0;
 
 .blog .bio .img {
     width: 100px;
-    height: 100px;
     aspect-ratio: 1;
     border-radius: 100%;
     overflow: hidden;
@@ -355,7 +354,7 @@ color: #777;
 opacity: 0.5;
 }
 
-  .blog {
+.blog {
     margin-top: 48px;
 }
 
@@ -367,19 +366,32 @@ opacity: 0.5;
 @media only screen and (max-width: 840px) {
   .page-image {
     margin-left: 0;
+}
+
+
+}
+
+
+@media only screen and (max-width: 650px) {
+.blog .bio {
+grid-template-columns: 75px auto;
+}
+
+  .blog .bio .img {
+    width: 75px;
+  }
+
+  .blog .bio img {
+    width: 95px;
+  }
+
+  .blog .bio p {
+padding: 0;
+font-size: 16px;
   }
 }
 
 
-@media only screen and (min-width: 900px) {
-
-.page-image {
-  max-width: calc(100vw - 100px) !important;
-  width: calc(100% + 200px) !important;
-  margin-left: -100px;
-}
-
-}
   </style>
 </head>
 <body>
