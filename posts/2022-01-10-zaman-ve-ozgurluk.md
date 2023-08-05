@@ -8,7 +8,7 @@ Hayatımın ortalarına yaklaşırken, bir önceki yıldan sonrakine devrettiği
 
 Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmuş, kendime doğru çekmeye çalışarak geçirmiştim ömrümün bir bölümünü. En çok önem verdiğim değerlerin, esasında kendi yarattığım bir kurmacanın dayanaklarından başka bir şey olmadıklarını kavramak, aşağı yukarı 5 yıl sürdü.
 
-İnsanoğlu doğanın önüne çıkardığı gözle görülen, elle tutulabilen "düşmanları" bir bir avlayıp gezegene hakim olduktan sonra, önüne bu kez gözle görülmeyen "düşmanlar" çıktı.
+İnsanoğlu gözle görülen, elle tutulabilen "düşmanları" bir bir avlayıp gezegene hakim olduktan sonra, önüne bu kez gözle görülmeyen "düşmanlar" çıktı.
 
 Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha yaygın olanıysa, insanların ömürlerinin tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede, başkalarının belirlediği çizgilerde gitgeller ile geçirmeleri.
 
