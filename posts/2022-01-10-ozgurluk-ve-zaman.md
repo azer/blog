@@ -10,7 +10,7 @@ Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmu�
 
 İnsanoğlu doğanın önüne çıkardığı gözle görülen, elle tutulabilen "düşmanları" bir bir avlayıp gezegene hakim olduktan sonra, önüne bu kez gözle görülmeyen "düşmanlar" çıktı.
 
-Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha trajiği, insan ömrünün tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede belirlenen çizgilerde gitgeller ile geçirebilir.
+Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha a insan ömrünün tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede belirlenen çizgilerde gitgeller ile geçirebilir.
 
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
@@ -29,10 +29,13 @@ Hepimiz doğarken özgür veya köle olarak doğarız. Her iki koşulda da, yaş
 Kim olduğumuzu anlamak için, neyin gerçek ve kalıcı olduğuna bakmamız gerekir.
 
 Zaman, gerçek ve kalıcıdır.
+
 İnsanlığın nesiller arasındaki bıraktığı birikim, gerçek ve kalıcıdır.
 
-Özgürlüğün yeryüzündeki en büyük değer olduğu, ve özgür olmak icin hem güç, hem bilgi hiyerarşisinde kılıçla ve kalemle mücadele etmemiz gerekliliği, gerçek ve kalıcıdır.
+Özgürlüğün yeryüzündeki en büyük değer olduğu gerçek ve kalıcıdır.
+
+Özgür olmak için hem güç, hem bilgi hiyerarşisinde, kılıçla ve kalemle mücadele etmemiz gerekliliği, gerçek ve kalıcıdır.
 
 Yaşamın bir maceraya davet olduğu, gerçek ve kalıcıdır.
 
-Eninde sonunda çıplak birer beden olarak toprağın altına gömüleceğimiz, gerçek ve kalıcıdır.
+Eninde sonunda, macerayla veya maceradan kaçarak, çıplak birer beden olarak toprağın altına gömüleceğimiz, gerçek ve kalıcıdır.
