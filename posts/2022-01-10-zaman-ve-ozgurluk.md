@@ -18,7 +18,11 @@ Bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları -ne k
 
 Her derinlik serüveninin ilk adımında olduğu gibi, insanın kendi kendini tanımasının ilk adımı, sessizliğe sığınmaktır. İnsanlığın sürekli değişim halinde olan yüzeysel koşullarını bir kenara bırakıp, hiçbir zaman değişmeyen, geometrik koşullarını ele almak gereklidir.
 
-Bu geometrik koşullardan en önemlisi, yeryüzünde ilişki halinde bulunan tüm insanların hiyerarşiler kurucuncaya dek çatışma, hiyerarşi kurulunca da nispeten barış halinde yaşadıkları gerçekliği. Barışın sağlanabilmesi için, insanoğlu binyıllardır gözle görülmeyen ama bilinen ve kabul edilen iki büyük hiyerarşiyi inşa eder; güç hiyerarşisi ve bilgi hiyerarşisi. Hemen hemen her asırda bu hiyerarşilerin yıkılıp yeniden yapılmasına yol açan esas kalıcı güç ise, zaman.
+Bu geometrik koşullardan en önemlisi, yeryüzünde ilişki halinde bulunan tüm insanların hiyerarşiler kurucuncaya dek çatışma, hiyerarşi kurulunca da nispeten barış halinde yaşadıkları gerçekliği. Barışın sağlanabilmesi için, insanoğlu binyıllardır gözle görülmeyen ama bilinen ve kabul edilen iki büyük hiyerarşiyi inşa eder; güç hiyerarşisi ve bilgi hiyerarşisi.
+
+Diğer insanların gerçekliklerini inceleyen ve anlayan insanlar güç hiyerarşisinde yükselirler. Kendilerinin ve doğanın gerçekliklerini inceleyen ve anlayanlar da, bilgi hiyerarşinde yükselirler. Bir insanın her iki hiyerarşide de yükselmesi <em>(bkz: philosopher king)</em>, güneş tutulması gibi çok nadir bir durumdur tarihi incelediğimizde. Gücü elde edenler zamanla tiranlaşmaya, tiranlaşanların etrafındaki insanlar ise kendi doğalarını tanımadan yaşamaya meylederler. İnsanın daha daraltılmış bir tanımına layık yaşamı, rahatlığın, öngörülebilirliğin verdiği sahte huzura tercih ederler. Böylece bilgi hiyerarşisi, kurgunun, yalanın hiyerarşisine döner. Çürüme başlar.
+
+Bu döngünün ardındaki kalıcı güç, zaman.
 
 Sığındığımız sessizlik ve yalnızlık, zaman ile buluşmamızı, onu incelememizi sağlar. Zaman nefese bürünür, ciğerlerimizde gidip gelir. Gözlerimizi kapatırız. Zaman bize, dış dünyanın gürültü ve karmaşasından, fiziki bedenimizin ihtiyaçları, istekleri ve acılarından kendimizi ayırmamızı, esasında kim olduğumuzu görmemiz için imkan verir.
 
