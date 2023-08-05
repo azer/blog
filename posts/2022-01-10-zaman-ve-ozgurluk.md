@@ -12,6 +12,8 @@ Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmu�
 
 Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha yaygın olanıysa, insanların ömürlerinin tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede, başkalarının belirlediği çizgilerde gitgeller ile geçirmeleri.
 
+Bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları -ne kadar şikayet ederlerse etsinler- talep ederler. Patronlar, moda akımları, krallar ve bürokratlar, insanları özgür bir yaşamın ağırlığından, kendilerini tanıdıklarında yüzleşmek zorunda kalacakları gerçeklikten ve her an kaosa sürüklenme anksiyetesinden kurtarırlar.
+
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
 Her derinlik serüveninin ilk adımında olduğu gibi, insanın kendi kendini tanımasının ilk adımı, sessizliğe sığınmaktır. İnsanlığın sürekli değişim halinde olan yüzeysel koşullarını bir kenara bırakıp, hiçbir zaman değişmeyen, geometrik koşullarını ele almak gereklidir.
