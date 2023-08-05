@@ -40,7 +40,7 @@ Zaman, gerçek ve kalıcıdır.
 
 İnsanlığın nesiller arasındaki bıraktığı birikim, gerçek ve kalıcıdır.
 
-Özgürlüğün yeryüzündeki en büyük değer olduğu gerçek ve kalıcıdır.
+Özgürlüğün yeryüzündeki en büyük değer olduğu, gerçek ve kalıcıdır.
 
 Özgür olmak için hem güç, hem bilgi hiyerarşisinde, kılıçla ve kalemle mücadele etmemiz gerekliliği, gerçek ve kalıcıdır.
 
