@@ -12,9 +12,9 @@ Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmu�
 
 Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha yaygın olanıysa, insanların ömürlerinin tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede, başkalarının belirlediği çizgilerde gitgeller ile geçirmeleri.
 
-Kölelik, özgürlükten daha yaygındır, çünkü daha rahattır. İnsanın kendi cehaleti ve kötülük yapma potansiyeliyle yüzleşmesi, sonsuz seviyede karmaşık geleceğin belirsizliği, yaşadığın coğrafyadaki kültürün baskısı ve her an bir deprem, sel gibi felaketle seni kozmosun başlangıcına göndermeye hazır olan doğa...
+Kölelik, özgürlükten daha yaygındır, çünkü daha rahattır. İnsanın kendi cehaleti ve kötülük yapma potansiyeliyle yüzleşmesi, geleceğin karmaşıklığı ve belirsizliği, yaşadığın coğrafyadaki kültürün baskısı, deprem, göktaşı, sel felaketleriyle gezegeni kozmosun en başlangıcına döndürebilen tabiat ana, herkesin yalan söylediği ve açık açık zulmettiği bir konuda çıkıp doğru söylediğinde en yakınındaki insanların sırtını çevireceği gerçeği...
 
-Tüm bunlarla özgür ve kendi kendine yeten bir insan olarak başa çıkmaktansa, bilakis insanlar özgürlüklerini alan ve onları yönlendiren tiranları isterler, yokluklarında özlemle anarlar. Patronlar, moda akımları, krallar, bürokratlar ve ünlüler, insanları özgür bir yaşamın ağırlığından, her an kaosa sürüklenme anksiyetesinden kurtarırlar.
+Tüm bunlarla özgür ve kendi kendine yeten bir insan olarak başa çıkmaktansa, bilakis insanlar özgürlüklerini alan, onları yönlendiren tiranları isterler. En azılı tiranlardan kurtulan toplumlar bile geçmişi nostaljiyle, kurtuldukları tiranlarını özlemle anarlar. Patronlar, moda akımları, krallar, bürokratlar ve ünlüler, insanları özgür bir yaşamın ağırlığından kurtarıp, her an kaosa sürüklenme anksiyetesinden kurtarıp, dopamin güvercini olarak yaşamanın reddedilemez cazibesiyle güderler insanları.
 
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
