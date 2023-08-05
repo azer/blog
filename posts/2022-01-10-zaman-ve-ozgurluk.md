@@ -10,7 +10,7 @@ Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmu�
 
 İnsanoğlu doğanın önüne çıkardığı gözle görülen, elle tutulabilen "düşmanları" bir bir avlayıp gezegene hakim olduktan sonra, önüne bu kez gözle görülmeyen "düşmanlar" çıktı.
 
-Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha a insan ömrünün tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede belirlenen çizgilerde gitgeller ile geçirebilir.
+Self-deception, kendi kendini aldatmak gibi. Çevre müsade ettiği sürece, bir insan ömrünü kendini hiç tanımadan, kendi kendine kurduğu bir kurmacanın içinde yaşayıp ölebilir. Daha yaygın olanıysa, insanların ömürlerinin tamamını başkalarının düzenlediği bir kurmacada, sanal bir yörüngede, başkalarının belirlediği çizgilerde gitgeller ile geçirmeleri.
 
 İnsan kim olduğu hakkında, nasıl derinlikli düşünebilir?
 
