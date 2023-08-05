@@ -29,7 +29,7 @@ export default function ({ search }: PageData) {
             years[year]
               .map(
                 (post) =>
-                  `<li><a href="${post.data.url}.html">${post.data.title}</a></li>`
+                  `<li><a href="${post.data.url}">${post.data.title}</a></li>`
               )
               .join(" ")
           );
