@@ -6,7 +6,7 @@ createdAt: "2022-01-10T00:00:00.000Z"
 ---
 Hayatımın ortalarına yaklaşırken, bir önceki yıldan sonrakine devrettiğim yüklerin ağırlığını ölçüp tartmaya başladım.
 
-Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmuş, kendime doğru çekmeye çalışarak geçirmiştim ömrümün bir bölümünü. İçgüdüsel olarak son derece önemli olduğunu düşündüğüm değerlerin, esasında kendi yarattığım bir kurmacanın dayanaklarından başka bir şey olmadığını farketmek, görmek ve kavramak, aşağı yukarı 5 yıl sürdü.
+Her insan gibi ben de, gururun, arzuların, gücün, hırsın bir ucundan tutmuş, kendime doğru çekmeye çalışarak geçirmiştim ömrümün bir bölümünü. İçgüdüsel olarak son derece önemli olduğunu düşündüğüm değerlerin, esasında kendi yarattığım bir kurmacanın dayanaklarından başka bir şey olmadığını kavramak, aşağı yukarı 5 yıl sürdü.
 
 İnsanoğlu doğanın önüne çıkardığı gözle görülen, elle tutulabilen "düşmanları" bir bir avlayıp gezegene hakim olduktan sonra, önüne bu kez gözle görülmeyen "düşmanlar" çıktı.
 
