@@ -14,7 +14,7 @@ Kant'ın meşhur "Aydınlanma Nedir?" yazısının [Türkçe çevirisini](https:
 
 Yazar: Immanuel Kant, 1784<br />
 Çeviri: Azer Koçulu, 2023<br />
-Archive: [Archive](https://archive.org/details/kant-aydinlanma-nedir)
+PDF: [Internet Archive](https://archive.org/details/kant-aydinlanma-nedir)
 
 Aydınlanma, insanın kendi seçimiyle bulunduğu olgunlaşmamışlık durumundan çıkışıdır. Olgunlaşmamışlık, insanın kendi aklını  bir başkasının yönlendirmesi olmadan kullanamama durumudur. Eğer olgunlaşmamışlık durumunun nedeni anlama eksikliği değil de, bir başkasının yönlendirmesi olmadan kendi aklını kullanmakta kararsızlık ve cesaret eksikliği ise, bu durum bir seçimdir; hatta insanın kendi kendine dayatmasıdır. Sapere aude! (Bilmeye cesaret et) İşte bu yüzden "Kendi aklını kullanma cesaretine sahip ol!", aydınlanmanın mottosudur.
 
