@@ -64,7 +64,8 @@ pre {
 }
 
 code {
-  font: 1.1rem Assistant,-apple-system,BlinkMacSystemFont,Arial,sans-serif;
+  font-family: Assistant,-apple-system,BlinkMacSystemFont,Arial,sans-serif;
+  padding: 2px 2px;
 }
 
 iframe {
@@ -161,7 +162,7 @@ border-bottom: 0;
 
 .blog a {
   text-decoration: underline;
-  text-decoration-color: #007AFC;
+  text-decoration-color: #ccc;
   border: 0;
   font-weight: 600;
 }
@@ -180,11 +181,18 @@ padding: 10px;
 overflow-x: scroll;
 }
 
+
 code {
   font-family: Inconsolata,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
   font-size: 0.9rem;
-  background: transparent !important;
+  background: rgb(240, 245, 245) !important;
   line-height: 1.6;
+}
+
+pre code {
+background: transparent !important;
+padding: 0;
+
 }
 
 h1 {
@@ -197,6 +205,12 @@ h1 {
 
 h2 {
   margin: 2em 0 .5em;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+h3 {
+  margin: 2em 0 0em;
   font-weight: 700;
   line-height: 1.5;
 }

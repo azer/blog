@@ -1,12 +1,16 @@
 ---
 layout: blog-post.njk
 title: "Deploying Phoenix with Kamal"
-createdAt: "2023-11-07T00:00:00.000Z"
+created At: "2023-11-07T00:00:00.000Z"
 ---
 
-Recently I've moved two Elixir/Phoenix apps, [sway](https://sway.so) and [kaynak](https://kaynak.app) to Hetzner, a Germany-based hosting provider. These apps not only have got better hardware, they now cost much less with simple & consistent pricing. [Kamal](https://kamal-deploy.org) plays a key role in this, it brings the developer experience of fancy cloud services (like [fly.io](https://fly.io)) to any server you own.
+Managing servers on your own can be very time consuming and pull you away from what you really want to do. That's why folks have leaned towards managed services like AWS and GCP – they do the heavy lifting devops-wise, although at a higher cost and with unpredictable pricing.
 
-I hope this blog post will be useful for others who want to try Kamal for deploying Phoenix apps.
+Kamal offers a middle ground, simplifying deployment while still giving you control on hardware and cost. It works by deploying your software to a list of IPs, leaving you free to choose the cloud provider that suits your needs best.
+
+For superior hardware and fair pricing, I've  migrated two Elixir/Phoenix applications, [sway](https://sway.so) and [kaynak](https://kaynak.app), to Hetzner using Kamal. They now enjoy upgraded hardware at a fraction of the former cost.
+
+I hope this blog post will be useful for others who want to deploy their Elixir apps with Kamal.
 
 ## First steps
 
@@ -33,7 +37,7 @@ If the project doesn't have a Dockerfile yet, create one by running:
 $ mix phx.gen.release --docker
 ```
 
-### Builder Image
+### Builder
 
 If you don't need to compile NPM assets, you can skip to runner image section.
 
@@ -50,7 +54,7 @@ Add compile command before `mix assets.deploy` call:
 RUN npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
 ```
 
-### Runner Image
+### Runner
 
 Make sure `curl` is installed in the runner image:
 
@@ -279,3 +283,11 @@ Rollback:
 ```bash
 $ kamal rollback [git hash]
 ```
+
+## See also
+
+Check out these blog posts which were helpful for me:
+
+* [Deploy phoenix with kamal
+](https://mrdotb.com/posts/deploy-phoenix-with-kamal)
+* [Deploying Django with Kamal](https://anthonynsimon.com/blog/kamal-deploy)
