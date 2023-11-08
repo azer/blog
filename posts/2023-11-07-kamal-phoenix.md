@@ -6,7 +6,7 @@ createdAt: "2023-11-07T00:00:00.000Z"
 
 Managing servers on your own can be very time consuming and pull you away from what you really want to do. That's why folks have leaned towards managed services like AWS and GCP – they do the heavy lifting devops-wise, although at a higher cost and with unpredictable pricing.
 
-Kamal offers a middle ground, simplifying deployment while still giving you control on hardware and cost. It works by deploying your software to a list of IPs, leaving you free to choose the cloud provider that suits your needs best.
+[Kamal](https://kamal-deploy.org) by [DHH](https://dhh.dk/) offers a middle ground, simplifying deployment while still giving you control on hardware and cost. It works by deploying your software to a list of IPs, leaving you free to choose the cloud provider that suits your needs best.
 
 For superior hardware and fair pricing, I've  migrated two Elixir/Phoenix applications, [sway](https://sway.so) and [kaynak](https://kaynak.app), to Hetzner using Kamal. They now enjoy upgraded hardware at a fraction of the former cost.
 
