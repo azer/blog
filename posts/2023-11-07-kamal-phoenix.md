@@ -1,7 +1,7 @@
 ---
 layout: blog-post.njk
 title: "Deploying Phoenix with Kamal"
-created At: "2023-11-07T00:00:00.000Z"
+createdAt: "2023-11-07T00:00:00.000Z"
 ---
 
 Managing servers on your own can be very time consuming and pull you away from what you really want to do. That's why folks have leaned towards managed services like AWS and GCP – they do the heavy lifting devops-wise, although at a higher cost and with unpredictable pricing.
