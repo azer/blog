@@ -44,7 +44,7 @@ createdAt: "2023-10-25T00:00:00.000Z"
 
 - Kant'ın savunduğu kilise reformları Avrupa'da faizin önünü açarak bankacılığın ve sermaye sınıfının oluşmasını sağladı.
 - Bu yeni sınıf, olmayan parayı yaratıp borç vererek bir yandan daha hızlı teknolojik gelişmenin önünü açarken, diğer yandan da sature olan bir pazardan diğerine geçip o pazarın da kanını emen bir vampir finans sistemi ortaya çıkardı. Ve bu sistem günümüzde hala dünyada devam ediyor, her 5-10 yılda bir yüksek miktarda karşılıksız para basarak veya savaş bütçeleriyle kendi kendini stimule ederek suni bir şekilde varlığını sürdürüyor.
-- Kant dönemindeki reformcu Protestan mezhebi, günümüzde diğer mezheplere göre daha sert ve uçta bir çizgide; protestan siyasetçiler savaşları en çok isteyenler oluyor, konuşma yasakları koyuyorlar, vs. Ukrayna ve en son Gazze savaşlarında orthodox papazlarının tutuklanması, kiliselerinin bombalanışı, protestan kiliselerinin ise orthodox hristiyanlarının karşı cephesinde yer alışı, dünyayı doğru yorumlama yordamının hala felsefe ve inanç sistemleri olduğunu gösteriyor.
+- Kant dönemindeki reformcu Protestan mezhebi, günümüzde diğer mezheplere göre daha sert ve uçta bir çizgide; protestan ve evanjelistler ABD'de başkanlık koltuğunu pek kaptırmıyorlar, dini sebepler bularak savaşlar başlatıyorlar (örn: Irak'ın İşgalini Eden'in Bahçesini geri alma savaşı olarak görmeleri). Ukrayna ve en son Gazze savaşlarında orthodox papazlarının tutuklanması, kiliselerinin bombalanışı, protestan kiliselerinin ise orthodox hristiyanlarının karşı cephesinde yer alışı ilginç.
 
 **Aydınlanma nereye vardı?**
 

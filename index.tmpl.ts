@@ -11,6 +11,7 @@ export default function ({ search }: PageData) {
   const years = {};
 
   for (const post of posts) {
+    console.log(post.data.date);
     const year = new Date(post.data.date).getFullYear();
     if (!years[year]) years[year] = [];
     years[year].push(post);
@@ -29,7 +30,7 @@ export default function ({ search }: PageData) {
             years[year]
               .map(
                 (post) =>
-                  `<li><a href="${post.data.url}">${post.data.title}</a></li>`
+                  `<li><a href="${post.data.url}">${post.data.title}</a></li>`,
               )
               .join(" ")
           );
