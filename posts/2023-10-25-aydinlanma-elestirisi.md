@@ -22,7 +22,7 @@ createdAt: "2023-10-25T00:00:00.000Z"
 - Kant dönem Avrupasında çoğu insanın olgunlaşmış birey olma cesaretinden yoksun, karanlıkta yaşadığını düşünüyor.
 - Kant, o dönemki hristiyan şeriatının aydınlanma için yetersiz olduğunu düşünüyor. Kant'ın sadık bir protestan olduğu her halinden belli.
 - Dönem Avrupa'sında kilisenin toprak sahibi olduğunu ve kimin kimle evlenmesinin uygun olacağına dahi kadar karar verebildiğini es geçmemek gerekli.
-- Dönem elitlerinin kilise reformlarından en büyük ve kritik maddi çıkarlarını görmezden gelirsek,** aydınlanma hareketinin neden finanse edildiğini **de anlayamayız. Dönemin  elitleri faize ve dolayısıyla modern / elit tefeciliğe (bankacılığa) dayalı yeni bir finansal sistemi inşa etmek istiyor, faizi yasaklayan katolik / orthodox şeriatı ise kendilerine ayak bağı oluyordu.
+- Dönem elitlerinin kilise reformlarından en büyük ve kritik maddi çıkarlarını görmezden gelirsek, aydınlanma hareketinin neden finanse edildiğini de anlayamayız. Dönemin  elitleri faize ve dolayısıyla modern / elit tefeciliğe (bankacılığa) dayalı yeni bir finansal sistemi inşa etmek istiyor, faizi yasaklayan katolik / orthodox şeriatı ise kendilerine ayak bağı oluyordu.
 
 **Kant yazısında ne önermelerde bulunuyor?**
 
