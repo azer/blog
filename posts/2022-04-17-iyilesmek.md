@@ -26,7 +26,7 @@ Türkçe iyileşme kelimesinin sözlük karşılıklarından çok daha derin ve 
 
 Türkçe’nin bize bıraktığı bu ince izi takip ettiğimizde, hayatla ilgili son derece temel bir prensip kendini belli ediyor bize.
 
-İmkansız görünen bir hedefi elde etmek için gerekli uzun ve sancılı süreç, hastalıktan çıkmak için kullandığımız, iyileşme disiplinin ortaya çıkardığı güçle mümkündür. Birinde doğanın kanunları bedenimizin yetersizliğini bize gönderdiği hastalıkla beyan ederken, diğerinde, kurduğumuz hayal veya amacı gerçekleştirmek için önümüzde bulunan engeller, bize iyileşmek için ne yapılması gerektiğini bildirmektedir.
+İmkansız görünen bir hedefi elde etmek için gerekli uzun ve sancılı süreç, hastalıktan çıkmak için kullandığımız iyileşme gücüyle mümkündür. Birinde doğanın kanunları bedenimizin yetersizliğini bize gönderdiği hastalıkla beyan ederken, diğerinde, kurduğumuz hayal veya amacı gerçekleştirmek için önümüzde bulunan engeller, bize iyileşmek için ne yapılması gerektiğini bildirmektedir.
 
 Bir düşmanın saldırısından korunmak, bir hastalıktan kurtulmak veya büyük bir amacı gerçekleştirmek adına iyileşmemiz için gerekli koşullar, bastırılmadığı veya saklanmadığı takdirde kendiliğinden ortaya çıkar, uzun, köklü değişimlere davet ederler. Yaşamımızın yönünü, doğrultusunu, bize can veren, özümüzün bir parçası olan, sanki bize can veren, yaradılışımızın parçası olan bir rehber belirlemeye başlar.
 
