@@ -25,29 +25,155 @@ title: Azer Koçulu
   text-renderoing: geometricPrecision;
 }
 
+@font-face {
+  font-family: 'Berkeley Mono';
+  src: url(https://raylabs.ai/BerkeleyMono-Regular.woff2);
+}
+
+
 html, body {
   width: 100%;
   height: 100%;
   padding: 0;
   margin: 0;
-background: #fff;
-font-size: 17px;
-font-weight: 400;
-font-family: Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-line-height: 1.6;
+  background: rgb(10, 14, 21);
+  color: 14px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-weight: 400;
+  font-family: 'Berkeley Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  line-height: 1.6;
   color: #181818;
 }
 
 
 a {
-  color: #181818;
+  color: rgba(255, 255, 255, 0.95);
   text-decoration: none;
   border-bottom: 1px solid #ccc;
   transition: border-color 0.2s;
 }
 
 a:hover {
-  border-bottom: 1px solid #888;
+  border-bottom: 0;
+}
+
+
+.main {
+  margin: 0 auto;
+  margin-top: 20vh;
+  width: calc(100% - 40px);
+  max-width: 850px;
+  height: auto;
+  display: grid;
+  grid-template-columns: 128px auto;
+  grid-column-gap: 20px;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 14px;
+}
+
+.main .profile-pic img {
+  width: 128px;
+  border-radius: 20px;
+}
+
+.info-table {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 10px;
+  line-height: 1.6;
+}
+
+
+.info-table strong {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 400 !important;
+}
+
+h3 {
+  font-size: 21px;
+  margin-top: 34px;
+}
+
+h3 span {
+  padding: 4px 6px;
+  background: rgb(30, 34, 42);
+  margin-left: -4px;
+}
+
+.work-table {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  gap: 4px;
+}
+
+.work-table .row {
+  display: grid;
+  grid-template-columns: 120px auto;
+  line-height: 1.6;
+  min-height: 24px;
+  align-items: center;
+}
+
+.work-table .row span, .work-table .row label {
+  line-height: 1.6;
+}
+
+.work-table .row label {
+  display: block;
+  height: 100%;
+  color: rgb(0, 160, 255);
+}
+
+.work-table .row label.green {
+  color: rgb(47, 204, 113);
+}
+
+.work-table .row label.red {
+  color: rgb(255, 70, 20);
+}
+
+.work-table .row span {
+  color: rgb(255, 255, 255, 0.75);
+}
+
+.work-table .row i {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.work-table .divider {
+  margin: 12px 0;
+  width: 100px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.logbook .entries {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.logbook .entries .entry {
+  display: flex;
+  gap: 8px;
+}
+
+.entry div, .entry span {
+  line-height: 1.4;
+}
+
+.logbook .entries .entry span {
+  color: rgba(255, 255, 255, 0.4);
+  display: block;
+  height: 100%;
+}
+
+a.secondary {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: rgba(255, 255, 255, 0.5);
 }
 
 p {
@@ -64,90 +190,6 @@ code {
 
 iframe {
   max-width: 100% !important;
-}
-
-strong, strong a {
-  font-weight: 600 !important;
-}
-
-::selection {
-  color: rgb(45, 110, 220);
-  background: #f2f2f2;
-}
-
-.column {
-  max-width: 640px;
-  padding: 0 6.4% 24px;
-  margin: 0 auto;
-}
-
-.home {
-  max-width: 640px;
-}
-
-.bio {
-  padding-top: 36px;
-  margin: 48px auto 72px auto;
-  gap: 20px;
-  color: #030303;
-}
-
-.bio h1 {
-  margin: 0px 0 16px 0;
-  font-size: 44px;
-  font-weight: 700;
-  letter-spacing: -2px;
-  color: rgb(10, 12, 16);
-}
-
-.bio div {
-  line-height: 28px;
-  font-size: 20px;
-  color: rgb(86, 86, 86);
-}
-
-.bio img {
-  width: 164px;
-  aspect-ratio: 1;
-  object-fit: cover;
-  margin: -10px 0 0 -14px;
-}
-
-.bio .img {
-  position: relative;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  overflow: hidden;
-  border-radius: 32px;
-  width: 140px;
-  height: 140px;
-  margin-bottom: 24px;
-  object-fit: cover;
-}
-
-.bio .links {
-  display: flex;
-  gap: 25px;
-  font-size: 16px;
-  margin-top: 24px;
-  margin-left: -15px;
-}
-
-.bio .links a {
-color: #666;
-padding: 9px 15px;
-transition: color, background, border-color .2s;
-transition: background-color 0.2s;
-background: #fff;
-text-decoration: none;
-border: 0;
-border-radius: 8px;
-}
-
-.bio .links a:hover {
-  color: #333;
-  background: rgba(230, 233, 237, 0.5);
 }
 
 .posts ul {
@@ -185,65 +227,156 @@ a:hover {
 }
 
 .posts .year {
-  font-weight: 600;
   color: #999;
   font-size: 14px;
-  margin-top: 48px;
+  margin-top: 24px;
 }
 
 .links {
 display: flex;
 }
 
-@media only screen and (max-width: 800px) {
-  .bio {
+@media only screen and (max-width: 750px) {
+  .info-table {
     grid-template-columns: 1fr;
   }
 
-  footer {
-    margin: 0 auto;
-}
+  .work-table .row {
+    grid-template-columns: 1fr;
+    margin-top: 12px;
+  }
 
-.posts ul {
-  margin-left: 0;
-}
-
-.bio .links {
-  margin-left: 0;
-}
-
-.bio .links a {
-  padding: 0;
-}
-
-.bio .links a:hover {
-  background: none;
-}
-
+  .logbook .entries .entry {
+    flex-direction: column;
+  }
 }
 
   </style>
 </head>
 <body>
-  <div class="home column">
-    <footer class="bio">
-      <div class="img"><img src="https://cldup.com/JuBBlQRbI1.jpg" /></div>
-      <h1>Azer Koçulu</h1>
+  <div class="main">
+  <div class="profile-pic"><img src="https://pbs.twimg.com/profile_images/1809937398635151361/EaEwL6qS_400x400.jpg" /></div>
+  <div class="main-content">
+    <div class="info-table">
       <div>
-	Software engineer and founder of <a href="https://sway.so">Sway</a> and <a href="https://raylabs.ai">Ray Labs</a>.
-	Previously, Superhuman, Jelly and Contentful.
-
-	<p class="links">
-	  <a href="mailto:azerkoculu@gmail.com">Say hello</a>
-	  <a href="https://github.com/azer">Github</a>
-	  <a href="https://twitter.com/azerkoculu">Twitter</a>
-	  <a href="https://linkedin.com/in/azerkoculu">Linkedin</a>
-	</p>
+        <strong>Name:</strong>
+	<label>Azer Koçulu</label>
       </div>
-    </footer>
-    <div class="posts">
+      <div>
+        <strong>Location:</strong>
+	<label>Berlin, SF, İstanbul</label>
+      </div>
+      <div>
+        <strong>Occupation:</strong>
+	<label>Software Engineer</label>
+      </div>
+
+      <div>
+        <strong>Links:</strong>
+	<label><a href="mailto:azerkoculu@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/azerkoculu/">Linkedin</a> | <a href="https://github.com/azer">Github</a></label>
+      </div>
+    </div>
+    <div class="work-table">
+     	 <h3><span>Work</span></h3>
+	 <div class="row">
+           <label class="green">Current</label>
+	   <span>Founder @ <a href="https://raylabs.ai">Ray Labs</a></span>
+         </div>
+	 <div class="row">
+	   <label class="red">Past</label>
+	   <span>Lead Engineer @ Superhuman, CTO @ HiPeople, Contentful, Zendesk</span>
+	 </div>
+
+<div class="divider"></div>
+
+         <div class="row">
+           <label class="green">Projects</label>
+	   <span><a href="https://sway.so">Sway</a>, <a href="https://mitte.ai">Mitte</a></span>
+         </div>
+
+         <div class="row">
+           <label>Research</label>
+	   <span><a href="https://drive.google.com/file/d/1dXlVa9NAAMzSOuyQpeE77YSqilLpdQ_T/view">Typography in AI Image Generation</a></span>
+         </div>
+
+         <div class="row">
+           <label>Experiments</label>
+	   <span><a href="https://x.com/azerkoculu/status/1838856278132547738">Browser w/ builtin search</a></span>
+         </div>
+
+         <div class="row">
+           <label>Side-projects</label>
+	   <span><a href="https://chromewebstore.google.com/detail/islamic-new-tab/holffmmbcpgclchdiogmlflljalffodl">Islamic New Tab</a>, <a href="https://kaynak.app">Kaynak</a>, <a href="https://afrikaradyo.com">Afrika Radyo</a></span>
+         </div>
+
+         <div class="row">
+           <label>Open-source</label>
+	   <span><a href="https://github.com/azer/tile">Tile</a>, <a href="https://github.com/azer/bind">Bind</a>, <a href="https://github.com/azer/eleven-labs-tts-stream">11labs-tts-stream</a>, <a href="https://github.com/azer" class="secondary">370+ more</a></span>
+         </div>
+
+         <div class="row">
+           <label>Linux</label>
+	   <span><a href="https://github.com/happy-hacking-linux">Happy Hacking Linux</a>, <a href="https://github.com/happy-hacking-linux/timezone-selector">TZ Selector</a></span>
+         </div>
+
+         <div class="row">
+           <label>Emacs</label>
+	   <span><a href="https://github.com/azer/miso-macs">miso-macs</a></span>
+         </div>
+
+         <div class="row">
+           <label>Documentation</label>
+	   <span><a href="https://azerkoculu.com/posts/elm">The Hitchhiker's Guide to Elm</a> <i>[2018]</i>, <a href="/posts/ileri-seviye-javascript.html">İleri Seviye JavaScript</a> <i>[2007]</i></span>
+         </div>
+
+         <div class="row">
+           <label class="red">Past</label>
+	   <span><a href="https://www.producthunt.com/products/initeye#initeye">initeye.ai</a> <i>[2019]</i>, <a href="https://getfirebug.com">Firebug Lite</a> <i>[2008]</i>, <a href="/posts/rethinking-web-browsers-and-making-of-kozmos-new-tab">Kozmos</a> <i>[2017]</i>, <a href="https://x.com/azerkoculu/status/1758958091352072610">R9 IDE</a> <i>[2007]</i>, MultiplayerChess.com <i>[2011, Acq'd]</i></span>
+         </div>
+
+
+    </div>
+    <div class="logbook">
+     	 <h3><span>Logbook</span></h3>
+	 <div class="entries">
+
+  <div class="entry">
+    <span>23.08.2023</span> <div>I've founded a new company, <a href="https://raylabs.ai">raylabs.ai</a> to do what I do best: build excellent products, focusing on AI.</div>
+  </div>
+
+  <div class="entry">
+    <span>28.07.2023</span> <div>After 7 months of hard work, <a href="https://sway.so">Sway</a> is live today!</div>
+  </div>
+
+  <div class="entry">
+    <span>01.04.2018</span> <div>We moved to Berlin as family.</div>
+  </div>
+
+  <div class="entry">
+    <span>20.06.2016</span> <div>I resigned from my job at Jelly and decided to leave US.</div>
+  </div>
+
+  <div class="entry">
+    <span>23.03.2016</span> <div>Unpublishing my open source modules from NPM became a big deal.</div>
+  </div>
+
+  <div class="entry">
+    <span>29.09.2011</span> <div>I moved to San Francisco.</div>
+  </div>
+  <div class="entry">
+    <span>15.10.2007</span> <div>I started working for Pagos Inc as a Junior Programmer.</div>
+  </div>
+	 </div>
+    </div>
+    <div class="blog">
+     	 <h3><span>Blog</span></h3>
+
+<div class="posts">
     {{ content | safe }}
     </div>
+    </div>
+    </div>
   </div>
+
 </body>
 </html>
