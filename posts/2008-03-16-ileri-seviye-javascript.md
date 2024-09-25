@@ -29,7 +29,7 @@ Azer
   * [Prototype](#f7)
   * [Caller](#f8)
 * [Diziler](#d)
-* [Objeler](#o)
+* [Nesneler](#n)
 * [İleri Seviye OOP](#i)
 
 </div>
@@ -589,7 +589,7 @@ Bu kez `curry` methodunu kullanarak, deneme objesini kontrol Degerinin scope'u o
 
 Gördüğünüz gibi pek karmaşık bir çözüm olmadı.İlk satırda, fn adında bir değer tanımladık bunun sebebi, geri döndürdüğümüz fonksiyon değerinin içinden, üst fonksiyona erişemeyişimiz.Ancak üst fonksiyon bloğunda tanımladığımız değerler, birbirine erişebilir.Bu yüzden, scope değerini de  tekrar tanımladık.Genellikle mantıksal sorgulamalarda kullandığımız "veya" ifadesinin görevi ise, argüman olarak gelen scope değeri null,false  veya undefined olduğunda, window değerini döndürmektir.Daha sonraki satırda ise, bir fonksiyon değeri döndürüyoruz.Yeni fonksiyonun içeriğine  baktığımızda bu kez call değil apply kullandığımızı görürsünüz.Bunun sebebi, call methodunun argümanları array tipinde değil, tek tek  alması.apply ise bunun tam tersine, ilk argümandan sonra bir argümanları içeren dizi değeri bekler.Gönderdiğimiz arguments değeri, yeni  fonksiyona gelen argümanları içeren dizi değeridir.Bunun hakkında daha fazla bilgi istiyorsanız, argümanlar başlığına dönün.
 
-## Diziler
+## <a name="d"></a>Diziler
 
 # Diziler: array
 
@@ -803,7 +803,7 @@ Cevap 2) Eğer iskelete dışarıdan dizi değeri eklediysek, fonksiyonun constr
 }
 ```
 
-# Nesneler: object
+# <a name="n"></a>Nesneler: object
 
 Objeler, tıpkı diziler gibi, istenen veri parçalarını gruplayan veri türüdür fakat dizi elemanlarının aksine, nesnelerdeki elemanlar için tanımlayıcı belirlenir.
 
@@ -939,7 +939,7 @@ Parantez bloklarını kullanarak biraz daha iyi bir çözüm kullandık. Buradak
 
 Fonksiyonları, dizileri ve objeleri pekiştirdiğimize göre, İleri OOP Teknikleri konusuna geçebiliriz.
 
-# İleri Seviye OOP Teknikleri
+# <a name="i"></a>İleri Seviye OOP Teknikleri
 
 Bu başlık altındaki kod örneklerini ingilizce hazırladım. Bunun sebebi kod standartlarını daha iyi anlamanızı sağlamak.
 
