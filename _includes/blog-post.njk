@@ -7,8 +7,10 @@
   <title>{{ title }}</title>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata:400|Inter:400,600,700" rel="stylesheet">
   <style type="text/css">
-@import "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css";
-
+@font-face {
+  font-family: 'Berkeley Mono';
+  src: url(/fonts/BerkeleyMono-Regular.woff2);
+}
 
 * {
   font-weight: normal;
@@ -30,17 +32,17 @@ html, body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: #fff;
+background: rgb(20, 24, 31);
 font-size: 17px;
 font-weight: 400;
 font-family: Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 line-height: 1.6;
-  color: #111;
+  color: rgba(203, 204, 204);
 }
 
 
 a {
-  color: #181818;
+  color: rgba(255, 255, 255);;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
   transition: border-color 0.2s;
@@ -84,16 +86,16 @@ strong, strong a {
 .page-date {
   color: #999;
   font-size: 14px;
-  font-weight: 600;
-  margin: 0 0 35px 0;
-
+  margin: 0 0 25px 0;
+  font-family: 'Berkeley Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 .page-title {
   line-height: 48px;
   font-size: 40px;
-  margin: 16px 0 36px 0;
+  margin: 16px 0 25px 0;
   letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.95);
 }
 
 .page-image {
@@ -176,7 +178,7 @@ ul li, ol li {
 }
 
 pre {
-background: rgb(240, 245, 245);
+background: rgba(240, 245, 245, 0.05);
 padding: 10px;
 overflow-x: scroll;
 }
@@ -185,7 +187,7 @@ overflow-x: scroll;
 code {
   font-family: Inconsolata,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
   font-size: 0.9rem;
-  background: rgb(240, 245, 245) !important;
+background: rgba(240, 245, 245, 0.07) !important;
   line-height: 1.6;
 }
 
@@ -199,7 +201,7 @@ h1 {
   font-weight: bold;
   margin: 2em auto .8em;
   font-size: 32px;
-  color: #050505;
+  color: rgba(255, 255, 255, 0.95);
   letter-spacing: .01em
 }
 
@@ -216,7 +218,7 @@ h3 {
 }
 
 .toc {
-  background: #f5f5f5;
+  background: rgba(240, 245, 245, 0.05) !important;
   padding: 25px 25px 25px 25px;
   font-weight: 400;
   font-size: 0.9;
@@ -237,13 +239,15 @@ font-weight: 500;
 
 .toc h1 {
   display: inline-block;
-  background: #ebe8e3;
 margin: 0 0 20px 0;
 font-size: 0.9rem;
 font-weight: 500;
-  color: #555;
-  padding: 5px 10px;
+  color: #fff;
+  padding: 8px 10px;
   letter-spacing: -0.5px;
+  background: rgba(255, 255, 255, 0.1);
+  font-family: 'Berkeley Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  text-transform: uppercase;
 }
 
 .toc ul {
@@ -271,11 +275,11 @@ list-style: none;
 
 .toc ul li a {
   border: 0;
-  color: #444;
+  color: rgba(255, 255, 255, 0.75);
 }
 
 .toc ul li a:hover {
-  color: #000;
+  color: #fff;
 }
 
 .toc ul li strong a {
@@ -284,10 +288,10 @@ list-style: none;
 
 blockquote {
   margin: 20px 0;
-  border-left: 5px solid #eee;
+  border-left: 5px solid rgba(255, 255, 255, 0.15);
   line-height: 1.8;
   padding: 0px 30px 0 30px;
-  color: #555;
+  color: rgba(255, 255, 255, 0.95);
   position: relative;
 }
 
@@ -325,12 +329,12 @@ blockquote {
   left: 20px;
   top: 90px;
   font-size: 14px;
-position: absolute;
+ position: absolute;
 
 }
 
 .back-btn a {
-  color: #999;
+  color: rgba(255, 255, 255, 0.75);
   font-weight: 600;
   text-decoration: none;
   border: 0;
@@ -341,17 +345,18 @@ transition: color, background-color .2s;
 }
 
 .back-btn svg {
+  stroke: rgba(255, 255, 255, 0.35);
   position: absolute;
   top: 9px;
   left: 13px;
-opacity: 0.3;
-transition: opacity .2s;
+  opacity: 1;
+  transition: opacity .2s;
 }
 
 .back-btn a:hover {
-background: #F5F5F5;
-color: #777;
-  border: 0;
+    background: rgba(255, 255, 255, 0.085);
+     color: #fff;
+    border: 0;
 }
 
 @media only screen and (max-width: 1050px) {
@@ -361,15 +366,6 @@ color: #777;
     text-align: left;
     justify-content: start;
     margin: 48px 0 0px -16px;
-}
-
-.back-btn a:hover {
-  background: transparent;
-  color: #666;
-}
-
-.back-btn a:hover svg {
-opacity: 0.5;
 }
 
 .blog {
@@ -414,6 +410,18 @@ hr {
   border-top: 1px solid #ddd;
 }
 
+/* github dark theme */
+
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}/*!
+  Theme: GitHub Dark
+  Description: Dark theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-dark
+  Current colors taken from GitHub's CSS
+*/.hljs{color:#c9d1d9;background:#0d1117}.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-template-tag,.hljs-template-variable,.hljs-type,.hljs-variable.language_{color:#ff7b72}.hljs-title,.hljs-title.class_,.hljs-title.class_.inherited__,.hljs-title.function_{color:#d2a8ff}.hljs-attr,.hljs-attribute,.hljs-literal,.hljs-meta,.hljs-number,.hljs-operator,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-id,.hljs-variable{color:#79c0ff}.hljs-meta .hljs-string,.hljs-regexp,.hljs-string{color:#a5d6ff}.hljs-built_in,.hljs-symbol{color:#ffa657}.hljs-code,.hljs-comment,.hljs-formula{color:#8b949e}.hljs-name,.hljs-quote,.hljs-selector-pseudo,.hljs-selector-tag{color:#7ee787}.hljs-subst{color:#c9d1d9}.hljs-section{color:#1f6feb;font-weight:700}.hljs-bullet{color:#f2cc60}.hljs-emphasis{color:#c9d1d9;font-style:italic}.hljs-strong{color:#c9d1d9;font-weight:700}.hljs-addition{color:#aff5b4;background-color:#033a16}.hljs-deletion{color:#ffdcd7;background-color:#67060c}
 
   </style>
 </head>
@@ -423,8 +431,8 @@ hr {
   <a href="/">
 
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M6 3L2 7L6 11" stroke="black" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M2 7H9.2C11.8509 7 14 9.23863 14 12" stroke="black" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 3L2 7L6 11" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2 7H9.2C11.8509 7 14 9.23863 14 12" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
 Azer Koçulu

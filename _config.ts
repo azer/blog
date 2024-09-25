@@ -19,7 +19,7 @@ site.use(
 );
 
 site.remoteFile(
-  "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css",
+  "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github-dark.min.css",
 );
 
 export default site;
