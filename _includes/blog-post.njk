@@ -12,6 +12,25 @@
   src: url(/fonts/BerkeleyMono-Regular.woff2);
 }
 
+@font-face {
+    font-family: "Haskoy-V";
+    src: url("/fonts/Haskoy[wght].woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Haskoy";
+    src: url("/fonts/Haskoy-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Haskoy";
+    src: url("/fonts/Haskoy-Light.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 300;
+}
+
 * {
   font-weight: normal;
   -webkit-font-smoothing: antialiased !important;
@@ -33,9 +52,9 @@ html, body {
   padding: 0;
   margin: 0;
 background: rgb(20, 24, 31);
-font-size: 17px;
+font-size: 16px;
 font-weight: 400;
-font-family: Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-family: Haskoy, Inter, ui-sans-serif, system-ui, -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 line-height: 1.6;
   color: rgba(203, 204, 204);
 }
@@ -78,9 +97,10 @@ strong, strong a {
   font-weight: 600 !important;
 }
 
+
 ::selection {
-  color: rgb(253, 73, 193);
-  background: rgba(0, 30, 115, 0.5);
+  color: rgba(253, 73, 193, 0.8);
+  background: rgba(80, 60, 85, 0.3);
 }
 
 
@@ -93,9 +113,9 @@ strong, strong a {
 
 .page-title {
   line-height: 48px;
-  font-size: 40px;
+  font-size: 48px;
   margin: 16px 0 25px 0;
-  letter-spacing: -0.02em;
+  letter-spacing: 0;
   color: rgba(255, 255, 255, 0.95);
 }
 
@@ -107,14 +127,17 @@ strong, strong a {
 }
 
 .column {
+
   max-width: 640px;
   padding: 0 6.4% 24px;
   margin: 0 auto;
 }
 
 .blog {
-  margin: 75px auto;
-  padding: 0 6.4% 24px;
+  margin: 0 auto;
+  margin-top: 20vh;
+padding: 0 6.4% 24px;
+font-size: 18px;
 }
 
 .blog .bio {
@@ -179,37 +202,57 @@ ul li, ol li {
 }
 
 pre {
-background: rgba(240, 245, 245, 0.05);
-padding: 10px;
-overflow-x: scroll;
+  background: rgba(240, 245, 245, 0.05);
+  padding: 10px;
+  overflow-x: scroll;
 }
 
 
 code {
   font-family: Inconsolata,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
-  font-size: 0.9rem;
+  font-size: 1rem;
 background: rgba(240, 245, 245, 0.07) !important;
   line-height: 1.6;
 }
 
-pre code {
-background: transparent !important;
-padding: 0;
+table {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 8px;
+  font-size: 14px;
+}
 
+table thead tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  font-weight: 600;
+}
+
+table thead tr th {
+  font-weight: 600 !important;
+}
+
+table th {
+border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+padding-bottom: 8px;
+}
+
+pre code {
+  background: transparent !important;
+  padding: 0;
 }
 
 h1 {
   font-weight: bold;
   margin: 2em auto .8em;
-  font-size: 32px;
+  font-size: 36px;
   color: rgba(255, 255, 255, 0.95);
-  letter-spacing: .01em
+  letter-spacing: .01em;
 }
 
 h2 {
   margin: 2em 0 .5em;
   font-weight: 700;
   line-height: 1.5;
+  color: rgba(255, 255, 255, 0.95);
 }
 
 h3 {
@@ -320,22 +363,53 @@ blockquote {
   margin: 10px 0 20px 0;
 }
 
+.profile-pic {
+  cursor: pointer;
+  position: absolute;
+margin-left: -120px;
+display: flex;
+flex-direction: column;
+gap: 12px;
+color: rgba(255, 255, 255, 0.45);
+font-size: 14px;
+text-align: left;
+text-decoration: none !important;
+line-height: 0.7;
+}
+
+.profile-pic span {
+margin: 8px 0 0 0;
+font-size: 16px;
+  font-weight: 600;
+letter-spacing: 0.5px;
+color: rgba(255, 255, 255, 0.75);
+line-height: 0.7;
+}
+
+.profile-pic img {
+  display: block;
+  width: 88px;
+  border-radius: 10px;
+}
+
+.profile-pic:hover span {
+  color: #fff;
+}
+
 .back-btn {
+border-top: 1px solid rgba(255, 255, 255, 0.05);
+padding-top: 12px;
+padding-bottom: 48px;
   display: flex;
   align-items: center;
   justify-content: start;
-  border-radius: 8px;
-  width: calc((87.2% - 640px) / 2);
-  height: 30px;
-  left: 20px;
-  top: 90px;
-  font-size: 14px;
- position: absolute;
+height: 30px;
+font-size: 16px;
 
-}
+ }
 
 .back-btn a {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.95);
   font-weight: 600;
   text-decoration: none;
   border: 0;
@@ -343,10 +417,12 @@ blockquote {
 border-radius: 8px;
 position: relative;
 transition: color, background-color .2s;
+margin-left: -14px;
+opacity: 0.5;
 }
 
 .back-btn svg {
-  stroke: rgba(255, 255, 255, 0.35);
+  stroke: rgba(255, 255, 255, 0.4);
   position: absolute;
   top: 9px;
   left: 13px;
@@ -354,23 +430,19 @@ transition: color, background-color .2s;
   transition: opacity .2s;
 }
 
-.back-btn a:hover {
-    background: rgba(255, 255, 255, 0.085);
-     color: #fff;
-    border: 0;
+.back-btn a:hover, .back-btn a:hover svg {
+  opacity: 1;
+  border: 0;
 }
 
 @media only screen and (max-width: 1050px) {
- .back-btn {
-    position: static;
-    width: 100%;
-    text-align: left;
-    justify-content: start;
-    margin: 48px 0 0px -16px;
+.blog {
+margin-top: 10vh;
 }
 
-.blog {
-    margin-top: 48px;
+.profile-pic {
+position: static;
+margin: 0 0 48px 0;
 }
 
 .page-date {
@@ -427,21 +499,14 @@ pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5p
   </style>
 </head>
 <body>
-  <div class="column">
-  <div class="back-btn">
-  <a href="/">
 
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M6 3L2 7L6 11" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M2 7H9.2C11.8509 7 14 9.23863 14 12" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
-
-Azer Koçulu
-  </a>
-  </div>
-  </div>
   <div class="blog column">
-    <div class="page-date">{{ createdAt  | date("HUMAN_DATE", "gl") }}</div>
+    <a class="profile-pic" href="/">
+      <img src="/static/self.jpg" />
+      <span>Azer Koçulu</span>
+      {{ createdAt  | date("MMM dd, yyyy", "gl") }}
+    </a>
+    <div class="page-date"></div>
     <h1 class="page-title">{{ title }}</h1>
     {% if image and not hideImage %}
     <img class="page-image" src={{ image }} />
@@ -450,6 +515,17 @@ Azer Koçulu
     {% endif %}
     {% endif %}
     <div class="blog-content">{{ content | safe }}</div>
+    <div class="back-btn">
+       <a href="/">
+
+<svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L2 7L6 11" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M2 7H9.2C11.8509 7 14 9.23863 14 12" stroke="current" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+Back
+  </a>
+      </div>
   </div>
 </body>
 </html>
