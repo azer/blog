@@ -15,8 +15,6 @@ Dökümanı okuyup bitirdikten sonra daha deneysel ve iyi tekniklerle kod yazaca
 Sabır ve gayretlerinizin karşılığını almanız dileğiyle,
 Azer
 
-Download: [ileri\_seviye_javascript.pdf](https://drive.google.com/file/d/0B1OA6b9DWUuSV0FBVXF6bE1wZzQ/view?usp=sharing)
-
 <div class="toc">
 
 # İÇİNDEKİLER
