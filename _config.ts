@@ -8,16 +8,18 @@ const site = lume({
 
 site.use(date());
 
+site.copy("fonts", "fonts");
+
 site.use(
   codeHighlight({
     options: {
       classPrefix: "hljs-",
     },
-  })
+  }),
 );
 
 site.remoteFile(
-  "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css"
+  "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css",
 );
 
 export default site;

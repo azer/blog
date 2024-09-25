@@ -27,7 +27,7 @@ title: Azer Koçulu
 
 @font-face {
   font-family: 'Berkeley Mono';
-  src: url(https://raylabs.ai/BerkeleyMono-Regular.woff2);
+  src: url(/fonts/BerkeleyMono-Regular.woff2);
 }
 
 
@@ -237,9 +237,17 @@ display: flex;
 }
 
 @media only screen and (max-width: 750px) {
-  .info-table {
+  .main, .info-table {
     grid-template-columns: 1fr;
   }
+
+  .main {
+    margin-top: 10vh;
+   }
+
+   .profile-pic {
+    margin-bottom: 20px;
+   }
 
   .work-table .row {
     grid-template-columns: 1fr;
