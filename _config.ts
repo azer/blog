@@ -9,6 +9,7 @@ const site = lume({
 site.use(date());
 
 site.copy("fonts", "fonts");
+site.copy("static", "static");
 
 site.use(
   codeHighlight({
