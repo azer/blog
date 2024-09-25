@@ -1,7 +1,6 @@
 ---
 layout: blog-post.njk
 title: "Kant - Aydınlanma Nedir?"
-desc: ""
 createdAt: "2023-10-09T00:00:00.000Z"
 ---
 
