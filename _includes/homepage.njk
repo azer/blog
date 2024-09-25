@@ -49,12 +49,12 @@ html, body {
 a {
   color: rgba(255, 255, 255, 0.95);
   text-decoration: none;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.35);
   transition: border-color 0.2s;
 }
 
 a:hover {
-  border-bottom: 0;
+  border-bottom-width: 0;
 }
 
 
@@ -108,13 +108,12 @@ h3 span {
 .work-table .row {
   display: grid;
   grid-template-columns: 120px auto;
-  line-height: 1.6;
-  min-height: 24px;
+  min-height: 28px;
   align-items: center;
 }
 
 .work-table .row span, .work-table .row label {
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 .work-table .row label {
@@ -170,7 +169,6 @@ i {
 
 a.secondary {
   color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0.5);
 }
 
 p {
