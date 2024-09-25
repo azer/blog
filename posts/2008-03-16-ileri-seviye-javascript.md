@@ -95,10 +95,9 @@ durum = 'pozitif'
 
 Bu örnekte, `durumuAyarla` fonksiyonu herhangi bir değer döndürmez (`undefined`), ancak global kapsamdaki durum değişkeninin değerini değiştirir.
 
-## <a name="f1"></a> Parantez Blokları
+## <a name="f1"></a> Parantez Grupları
 
-Fonksiyon tipindeki verilerin çalışmasını incelediğimiz örneklerde parantezlerin sağladığını görüyoruz.Parantezler işlevsel olarak pek çok konuda fayda sağlasa da, pek çok zaman yazılan kodun daha anlaşılır olması için blok oluşturmada kullanılır. Önce ne gibi işlevlerde kullandığımıza
-gözatalım.Birinci örnek matematiksel işlemlerde gruplama yaparken kullanılan parantezler üzerine:
+Fonksiyon tipindeki verilerin çalışmasını incelediğimiz örneklerde parantezlerin sağladığını görüyoruz.Parantezler işlevsel olarak pek çok konuda fayda sağlasa da, pek çok zaman yazılan kodun daha anlaşılır olması için blok oluşturmada kullanılır. Önce ne gibi işlevlerde kullandığımıza gözatalım. Birinci örnek matematiksel işlemlerde gruplama yaparken kullanılan parantezler üzerine:
 
 ```js
 >>> 1+2*3
@@ -120,7 +119,7 @@ javascript: with ... (line 1)
 "1"
 ```
 
-Gelelim üçüncü örneğe.Ecmascript'te her fonksiyon bloğu parantezler içine alınabilir. Ve elbette, parantez içine alınmış kod bloğuna çalıştırma komutu gönderilebilir. Bu yöntem daha sade ve temiz görünen kodlar yazmayı sağlar, çünkü fonksiyonu yazdıktan sonra tanımlayıcıyı çağırmaya gerek duyulmaz.
+Gelelim üçüncü örneğe. Ecmascript'te her fonksiyon bloğu parantezler içine alınabilir. Ve elbette, parantez içine alınmış kod bloğuna çalıştırma komutu gönderilebilir. Bu yöntem daha sade ve temiz görünen kodlar yazmayı sağlar, çünkü fonksiyonu yazdıktan sonra tanımlayıcıyı çağırmaya gerek duyulmaz.
 
 Klasik yöntemle yazılan bir fonksiyonun çağırma işlemiyle, parantez bloğunun kodlarını karşılaştıralım:
 
