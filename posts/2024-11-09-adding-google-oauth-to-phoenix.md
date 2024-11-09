@@ -135,7 +135,7 @@ scope "/auth", MyAppWeb do
 end
 ```
 
-Create the auth controller in `myapp_web/controllers/auth_controller.ex`:
+Create the auth controller in `lib/myapp_web/controllers/auth_controller.ex`:
 
 ```ex
 defmodule MyAppWeb.AuthController do
@@ -166,7 +166,7 @@ defmodule MyAppWeb.AuthController do
 end
 ```
 
-Finally, we can now add the Google sign in button to `myapp_web/controllers/user_session_html/new.html.heex`;
+Finally, we can now add the Google sign in button to `lib/myapp_web/controllers/user_session_html/new.html.heex`;
 
 ```ex
   <a
@@ -207,5 +207,71 @@ Finally, we can now add the Google sign in button to `myapp_web/controllers/user
   </a>
 ```
 
+## Step 5. Email Notification
+
+Let's also notify users when they sign in with Google for the first time. First, add new notification method to `lib/myapp/accounts/user_notifier.ex`:
+
+```ex
+def deliver_oauth_welcome_message(user) do
+  html_body = """
+  <div style="font-family: system-ui, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+    <h1 style="font-size: 24px; color: #1a1a1a;">Welcome to MyApp! ✨</h1>
+    <p style="color: #333; line-height: 1.5;">Thanks for signing up with Google. Your account is verified and ready to go.</p>
+    <p style="margin: 25px 0;">
+      <a href="https://myapp.com" style="background: #1a1a1a; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Start Using MyApp</a>
+    </p>
+    <p style="color: #666; font-size: 14px;">Or visit: https://myapp.com</p>
+    <p style="color: #333; margin-top: 30px;">Best,<br>MyApp Team</p>
+  </div>
+  """
+
+  text_body = """
+  Welcome to MyApp! ✨
+
+  Thanks for signing up with Google. Your account is verified and ready to go.
+
+  Start using MyApp at: https://myapp.com
+
+  Best,
+  MyApp Team
+  """
+
+  deliver(user.email, "Welcome to MyApp! ✨", html_body, text_body)
+end
+```
+
+Then update the auth controller (`lib/myapp_web/controllers/auth_controller.ex`) to send email when user signs up:
+
+```ex
+ case Accounts.get_or_create_user(user_params) do
+    {:ok, user} ->
+      # Send appropriate email based on whether this is a new
+      if just_created?(user) do
+        Accounts.UserNotifier.deliver_oauth_welcome_message(user)
+	  end
+
+      conn
+      |> put_flash(:info, "Welcome!")
+      |> UserAuth.log_in_user(user)
+
+    {:error, _reason} ->
+      conn
+      |> put_flash(:error, "Authentication failed")
+      |> redirect(to: ~p"/login")
+  end
+end
+```
+
+Don't forget adding a helper function to check if the user was just created:
+
+```ex
+defp just_created?(user) do
+  case user.inserted_at do
+    nil -> true
+    created_at ->
+      NaiveDateTime.diff(NaiveDateTime.utc_now(), created_at) < 5  # Within last 5 seconds
+  end
+end
+```
 
 That's all needed for Google authentication. The setup above handles both new and returning users, stores their name and profile picture, and automatically confirms their email.
