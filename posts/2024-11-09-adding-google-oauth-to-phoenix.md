@@ -243,23 +243,16 @@ end
 Then update the auth controller (`lib/myapp_web/controllers/auth_controller.ex`) to send email when user signs up:
 
 ```ex
- case Accounts.get_or_create_user(user_params) do
+  case Accounts.get_or_create_user(user_params) do
     {:ok, user} ->
-      # Send appropriate email based on whether this is a new
+
+      # Send email if the user was just created
       if just_created?(user) do
         Accounts.UserNotifier.deliver_oauth_welcome_message(user)
-	  end
+      end
 
-      conn
-      |> put_flash(:info, "Welcome!")
-      |> UserAuth.log_in_user(user)
-
-    {:error, _reason} ->
-      conn
-      |> put_flash(:error, "Authentication failed")
-      |> redirect(to: ~p"/login")
+      ...
   end
-end
 ```
 
 Don't forget adding a helper function to check if the user was just created:
