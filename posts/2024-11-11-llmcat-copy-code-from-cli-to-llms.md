@@ -18,7 +18,11 @@ $ llmcat foo/bar.txt # Copies single file
 When you run it, the content will be copied in following format:
 
 ```md
-## File: foo/bar.txt
+# Directory: src/state
+
+[file tree]
+
+## File: src/state/config.ts
 ---
 [file contents]
 
