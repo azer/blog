@@ -25,9 +25,11 @@ When you run it, the content will be copied in following format:
 ...
 ```
 
-The best part is interactive mode, powered by `fzf` & `bat`. Let's say you work in a large repository, and need to select multiple files/directories. Instead of going into each directory and copying/pasting with proper headers manually, you can use llmcat's interactive mode to fuzzy search and select files.
+## Interactive Mode
 
-Start llmcat with no parameters:
+Suppose you work in a large repository and want to copy multiple files/directories. Instead of going into each directory and formatting/copying/pasting manually, you can use llmcat's interactive mode to fuzzy search and copy files.
+
+Just run llmcat without parameters to open interactive mode:
 
 ```bash
 $ llmcat
