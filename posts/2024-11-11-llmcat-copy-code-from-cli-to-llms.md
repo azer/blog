@@ -57,6 +57,9 @@ When done, press enter and everything will be copied in following format:
 ...
 ```
 
+A longer video that shows full workflow and the output:
+[Watch on X](https://x.com/azerkoculu/status/1855973784009777217).
+
 ## Using with LLM CLI
 
 You can pipe llmcat's output to Simon Willison's [LLM](https://github.com/simonw/llm) tool by running it in print mode (`-p, --print`):
