@@ -4,7 +4,7 @@ title: "Adding Google OAuth to Phoenix"
 createdAt: "2024-11-09T21:19:00.000Z"
 ---
 
-Recently added Google authentication to an app I'm building. Writing this down as I don't want to remember all the steps next time - Stack Overflow threads pointing to outdated Google Console menus and several other obstacles made this seemingly simple feature frustrating.
+Recently added Google authentication to [Mitte](https://mitte.ai). Writing this down as I don't want to remember all the steps next time.
 
 Here's how to add Google OAuth to a Phoenix app, step by step.
 
