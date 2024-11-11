@@ -64,7 +64,7 @@ $ llmcat -p assets/js/state | llm "explain this code"
 You can pipe output in interactive mode:
 
 ```bash
-$ llmcat | llm "Fix typing issues"
+$ llmcat -p | llm "Fix typing issues"
 ```
 
 ## Install
