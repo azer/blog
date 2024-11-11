@@ -53,7 +53,21 @@ When done, press enter and everything will be copied in following format:
 ...
 ```
 
-### Install
+## Using with LLM CLI
+
+You can pipe llmcat's output to Simon Willison's [LLM](https://github.com/simonw/llm) tool by running it in print mode (`-p, --print`):
+
+```bash
+$ llmcat -p assets/js/state | llm "explain this code"
+```
+
+You can pipe output in interactive mode:
+
+```bash
+$ llmcat | llm "Fix typing issues"
+```
+
+## Install
 
 llmcat is just a bash script that works in both OSX and Linux. To install:
 
