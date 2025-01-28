@@ -1,6 +1,6 @@
 ---
 layout: blog-post.njk
-title: "Open-sourcing Sway for unstoppable remote teams"
+title: "Open-sourcing Sway"
 createdAt: "2025-01-28T22:02:00.000Z"
 ---
 
