@@ -25,7 +25,7 @@ To address this pain-point, Sway places an icon in OSX' menubar. You can see you
 In the same menubar popup, users can set their availability status and choose their "flow". Notice how Sway always highlights where the focus is in the UI. Its UI state kept track of focus as well;
 
 <div class="video">
-<video style="border-radius:20px;" src="https://cldup.com/djFzb21X40.mp4" muted="" autoplay="" playsinline="" loop=""></video>
+<video style="border-radius:25px;" src="https://cldup.com/djFzb21X40.mp4" muted="" autoplay="" playsinline="" loop=""></video>
 </div>
 
 Besides of the menubar shortcut, Sway offers a main window where you could see your entire workspace, chat with others via video or text;
@@ -36,7 +36,7 @@ Besides of the menubar shortcut, Sway offers a main window where you could see y
 
 And in the main window, users can enjoy a very polished command palette which allows users to switch devices just using keyboard;
 
-<div class="video">
+<div class="video" style="background: rgba(235, 241, 250, 0.085)">
 <video style="border-radius:15px;" src="https://cldup.com/7RW9AfCoKq.mp4" autoplay="" playsinline="" muted="" loop=""></video>
 </div>
 
