@@ -4,7 +4,7 @@ title: "Open-sourcing Sway"
 createdAt: "2025-01-28T22:02:00.000Z"
 ---
 
-Sway is a video communication tool to replace meetings with more in-person like communication for remote teams. And by today Sway is now open source, available for all developers on [Github](https://github.com/azer/sway).
+Sway is a video communication tool to replace meetings with more in-person like communication for remote teams. And by today Sway is now open source, available on [Github](https://github.com/azer/sway).
 
 Watch this video to see the Sway in action:
 
