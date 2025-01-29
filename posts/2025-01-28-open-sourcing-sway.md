@@ -14,7 +14,7 @@ Watch this video to see the Sway in action:
 
 ## What's Sway?
 
-The idea behind Sway is basically to reduce coordination cost, which [slows down remote teams by average 20%](https://siepr.stanford.edu/publications/working-paper/evolution-working-home). I saw how coordination delays build up and slow down work in the teams I lead since Covid - coordination is delayed by default in remote work, and every delay has a cost. A quick catch up about a PR review gets delayed to tomorrow, or what would be a quick coordination between 3 people in the office turns into a meeting with 10 people that needs to be scheduled.
+The idea behind Sway is basically to reduce coordination cost, which [slows down remote teams by average 20%](https://siepr.stanford.edu/publications/working-paper/evolution-working-home).  Since Covid, I've seen these delays pile up in the teams I lead - it's just the default state of remote work, and every delay has a cost. A quick catch up about a PR review gets delayed to tomorrow, or a quick coordination between 3 people in the office turns into a meeting with 10 people that needs to be scheduled.
 
 To address this pain-point, Sway places an icon in OSX' menubar. You can see your team room and quickly jump in and out of conversations fluidly;
 
