@@ -55,9 +55,11 @@ Command palette.
 
 For a standard product development team, shipping "Remind me later" feature would mean adding buttons and modals to the app. It'd take minimum 3-4 layout changes and would need designers & engineers to figure out not just how to build it but also how to fit it. It'd need design, QA and engineering to coordinate several times, potentially breaking existing stuff, follow up fixes, etc...
 
-For a typical team, design is adding, removing and changing things on the screen as new features come. For exceptional teams, design is eliminating the need for design.
+For a typical team, design is adding, removing and changing things on the screen as new features come. They tend to map new functionalities into static layout changes, then put them together with code. This is a slow and expensive way to operate, a failure mode.
 
-This is how Superhuman's engineering team could focus solely on business logic and ship dozens of high-quality features in their early days. They first activated the "fast mode" by establishing a system, minimized the steps needed to build and deliver features, then used it to ship features fast in the following years.
+For exceptional teams, design is eliminating the need for design.
+
+This is exactly how Superhuman's engineering team could focus solely on business logic and ship dozens of high-quality features in their early days. They first activated the "fast mode" by establishing a system, minimized the steps needed to build and deliver features, then used it to ship features fast in the following years.
 
 And because they had a system to ship features with minimum cost, they could do it hundreds of times.
 
