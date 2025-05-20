@@ -6,7 +6,7 @@ createdAt: "2025-05-20T00:01:00.000Z"
 
 Successful startups have one thing in common: they turn less input to more output.
 
-I call it **the "less is more" engine**; the initial mission of the startup should be creating a system that will minimize the cost to build and deliver what the market wants.
+I call it **the "less is more" engine**; initial mission of the startup should be creating a system that will minimize the cost to build and deliver what the market wants.
 
 It's similar to [thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). The team constructs itself intentionally to activate its fast-mode; and makes it easy to expand on top of its core.
 
