@@ -28,7 +28,7 @@ A good technical foundation will provide the engineering team the right abstract
 
 Compare developing with an omakase framework like Ruby on Rails and setting up a simple app with a complex microservices architecture from day 1, using different languages and frameworks. In one case, your focus will be product. In the other one, it won't.
 
-A good technical foundation should eliminate the need to write code for every feature. For example; if we establish a backend system that frontend app can consume to build multiple features without needing backend to change as well for each feature, this will mean;
+A good technical foundation should eliminate the need to write new code for every feature. For example, imagine a backend system designed so that the frontend can build multiple features on top of it — without requiring backend changes each time. This leads to several advantages:
 
 * Less LoC / dev cost, faster & more output
 * Decoupled backend from business logic, less cost for potential pivot
