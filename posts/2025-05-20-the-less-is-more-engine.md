@@ -22,7 +22,7 @@ To be more specific, here's how we can break down the *less is more* principle f
 
 Our brains can make only limited number of high quality decisions per day. After that, the decision quality will drop, we'll start having fatigue and it may lead to burn out.
 
-A good technical foundation tends to minimize the number of decisions a team needs to make while building & delivering features. It'll create a butterfly effect on company's quality and speed by increasing engineering focus on product, getting rid of counter-productive coordination cost on things that don't matter for company's success in the early stages, increasing the decision making quality.
+A good technical foundation tends to minimize the number of decisions a team needs to make while building & delivering features. Good abstractions not only hide irrelevant complexity, they'll also save the team from the cost of irrelevant decision making. I've seen this butterfly effect on quality and speed many times: engineering focus shifts to product, teams eliminate counter-productive coordination on things that don't matter for early success, and the overall quality of decision-making improves.
 
 A good technical foundation will provide the engineering team the right abstractions, tailored for what their need. It'll not only reduce development cost, but also hide irrelevant details, so the engineers can focus on building on top of them without being distracted.
 
