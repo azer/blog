@@ -57,7 +57,7 @@ For a standard product development team, shipping "Remind me later" feature woul
 
 For a typical team, design is adding, removing and changing things on the screen as new features come. For exceptional teams, design is eliminating the need for design.
 
-This is how Superhuman's engineering team could just focus on the business logic and ship hundreds of high quality features in their early days, following the existing design & engineering conventions which allows minimized the steps that take to build and deliver features.
+This is how Superhuman's engineering team could focus solely on business logic and ship dozens of high-quality features in their early days. They first activated the "fast mode" by establishing a system, minimized the steps needed to build and deliver features, then used it to ship features fast in the following years.
 
 And because they had a system to ship features with minimum cost, they could do it hundreds of times.
 
