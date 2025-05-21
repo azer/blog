@@ -55,7 +55,7 @@ Command palette.
 
 For a standard product development team, shipping "Remind me later" feature would mean adding buttons and modals to the app. It'd take minimum 3-4 layout changes and would need designers & engineers to figure out not just how to build it but also how to fit it. It'd need design, QA and engineering to coordinate several times, potentially breaking existing stuff, follow up fixes, etc...
 
-For a typical team, design is adding, removing and changing things on the screen as new features come. They tend to map new functionalities into static layout changes, then put them together with code. This is a slow and expensive way to operate, a failure mode. Using a design system will reduce the cost slightly, while the problem solving approach is multiplies.
+For a typical team, design is adding, removing and changing things on the screen as new features come. They tend to map new functionalities into static layout changes, then put them together with code. Interaction comes as another layer on top of the static software. You can use a design system to reduce the cost slightly, meanwhile the overall approach multiplies the cost. This is a slow and expensive way to operate, a very common failure mode.
 
 For exceptional teams, design is eliminating the need for design.
 
