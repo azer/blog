@@ -12,10 +12,10 @@ It's similar to [thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,
 
 Successful startups are often multiplayer systems easily playable by both experienced and also inexperienced players; and their systems can last across different stages of product development and even pivots. They're semi-structured just enough to have a lean and productive gameplay, with simple and clear goals and a feedback loop that trains its players to be the "Lebron James" of their domains internally. This is really the secret behind 10x startup speed.
 
-To be more specific, here's how we can break down the *less is more* principle for different domains of a startup;
+Here's how we can break down the *less is more* engine for different domains;
 
 * **Engineering**: Align all technical work to minimize LoC, maximize deployment frequency.
-* **Design:** Design in a way to make engineering ship features without needing design.
+* **Design:** Design to eliminate the design.
 * **Product / marketing:** Find the most lean solution for a significant problem. Be intentional about [triple constraint](https://en.wikipedia.org/wiki/Project_management_triangle).
 
 # Engineering
@@ -55,7 +55,7 @@ Command palette.
 
 For a standard product development team, shipping "Remind me later" feature would mean adding buttons and modals to the app. It'd take minimum 3-4 layout changes and would need designers & engineers to figure out not just how to build it but also how to fit it. It'd need design, QA and engineering to coordinate several times, potentially breaking existing stuff, follow up fixes, etc...
 
-For a typical team, design is adding, removing and changing things on the screen as new features come. They tend to map new functionalities into static layout changes, then put them together with code. This is a slow and expensive way to operate, a failure mode.
+For a typical team, design is adding, removing and changing things on the screen as new features come. They tend to map new functionalities into static layout changes, then put them together with code. This is a slow and expensive way to operate, a failure mode. Using a design system will reduce the cost slightly, while the problem solving approach is multiplies.
 
 For exceptional teams, design is eliminating the need for design.
 
